@@ -1,0 +1,1 @@
+<h1> Hai ricevuto una mail {{ $lead->name }}</h1>
